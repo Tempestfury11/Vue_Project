@@ -1,44 +1,53 @@
 <template>
   <header class="header">
-  <input class="menu-btn" type="checkbox" id="menu-btn" />
-  <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
-  <ul class="menu">
-<li class="nav-item">
-              <router-link :to="{ name: 'landing' }"><i class="bi bi-house-door-fill"></i>HOME</router-link>
-            </li>
-            <li class="nav-item">
-              <router-link :to="{ name: 'about' }"><i class="bi bi-file-person-fill"></i>ABOUT</router-link>
-            </li>
+    <input class="menu-btn" type="checkbox" id="menu-btn" />
+    <label class="menu-icon" for="menu-btn"
+      ><span class="navicon"></span
+    ></label>
+    <ul class="menu">
+      <li class="nav-item">
+        <router-link :to="{ name: 'landing' }"
+          ><i class="bi bi-house-door-fill"></i>HOME</router-link
+        >
+      </li>
+      <li class="nav-item">
+        <router-link :to="{ name: 'about' }"
+          ><i class="bi bi-file-person-fill"></i>ABOUT</router-link
+        >
+      </li>
 
-            <li class="nav-item">
-              <router-link :to="{ name: 'resume' }"><i class="bi bi-file-earmark-richtext-fill"></i>RESUME</router-link>
-            </li>
+      <li class="nav-item">
+        <router-link :to="{ name: 'resume' }"
+          ><i class="bi bi-file-earmark-richtext-fill"></i>RESUME</router-link
+        >
+      </li>
 
-            <li class="nav-item">
-              <router-link :to="{ name: 'testimonials' }"
-                ><i class="bi bi-hand-thumbs-up-fill"></i>TESTIMONIALS</router-link
-              >
-            </li>
+      <li class="nav-item">
+        <router-link :to="{ name: 'testimonials' }"
+          ><i class="bi bi-hand-thumbs-up-fill"></i>TESTIMONIALS</router-link
+        >
+      </li>
 
-            <li class="nav-item">
-              <router-link :to="{ name: 'projects' }"><i class="bi bi-hammer"></i>PROJECTS</router-link>
-            </li>
+      <li class="nav-item">
+        <router-link :to="{ name: 'projects' }"
+          ><i class="bi bi-hammer"></i>PROJECTS</router-link
+        >
+      </li>
 
-            <li class="nav-item">
-              <router-link :to="{ name: 'contact' }"><i class="bi bi-phone-fill"></i>CONTACT</router-link>
-            </li>
-  </ul>
-</header>
+      <li class="nav-item">
+        <router-link :to="{ name: 'contact' }"
+          ><i class="bi bi-phone-fill"></i>CONTACT</router-link
+        >
+      </li>
+    </ul>
+  </header>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
 <style>
-
 a {
   color: #000;
 }
@@ -47,7 +56,7 @@ a {
 
 .header {
   background-color: red;
-  box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
+  box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.1);
   position: fixed;
   width: 100%;
   z-index: 3;
@@ -86,7 +95,7 @@ a {
 .header .menu {
   clear: both;
   max-height: 0;
-  transition: max-height .2s ease-out;
+  transition: max-height 0.2s ease-out;
 }
 
 /* menu icon */
@@ -94,7 +103,7 @@ a {
 .header .menu-icon {
   cursor: pointer;
   display: inline-block;
-  float: right;
+  /* float: right; */
   padding: 28px 20px;
   position: relative;
   user-select: none;
@@ -105,18 +114,18 @@ a {
   display: block;
   height: 2px;
   position: relative;
-  transition: background .2s ease-out;
+  transition: background 0.2s ease-out;
   width: 18px;
 }
 
 .header .menu-icon .navicon:before,
 .header .menu-icon .navicon:after {
   background: #333;
-  content: '';
+  content: "";
   display: block;
   height: 100%;
   position: absolute;
-  transition: all .2s ease-out;
+  transition: all 0.2s ease-out;
   width: 100%;
 }
 

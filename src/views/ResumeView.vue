@@ -87,6 +87,9 @@ export default {
   background-color: #00A5FF;
   padding: 0 0 30 0;
 }
+.resume h1{
+  padding: 70px 0 0 0;
+}
 .school{
   background-color: white;
   color: #03a9f4;

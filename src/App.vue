@@ -28,7 +28,9 @@ export default {
   color: white;
   overflow-x: hidden;
 }
-
+h1{
+  padding: 30px 0 0 0;
+}
 /* nav {
   padding: 30px;
 }
