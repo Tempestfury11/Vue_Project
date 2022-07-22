@@ -29,7 +29,7 @@
             <i class="bi fa-2x bi-filetype-java mx-1"></i>JAVASCRIPT
             <i class="fa-brands fa-2x fa-vuejs mx-1"></i>Vue.js
           </div>
-              <button><a id="about-link" target="_blank" href="https://github.com/Tempestfury11" class="button button2">GitHub</a></button>
+              <a target="_blank" href="https://github.com/Tempestfury11" class="button button2">GitHub</a>
           </div>
         </div>
     </div>
@@ -66,20 +66,19 @@ export default {
 
 .button2 {
   border: none;
-  padding: 10px 20px;
+  padding: 10px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
+  border-radius: 5px ;
 }
 
 .button2 {
   background-color: navy; 
   color: white; 
-  border: 4px solid #03a9f4;
 }
 
 .button2:hover {
