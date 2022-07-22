@@ -16,8 +16,8 @@
             <div class="details">
               <span>{{ item.title }}</span>
               <br>
-              <a id="live" class="text-danger bi bi-github mx-2 fs-1" :href="item.link1"></a>
-              <a id="live" class="text-danger bi bi-link-45deg mx-2 fs-1" :href="item.link2"></a>
+              <a id="live" target="_blank" class="text-danger bi bi-github mx-2 fs-1" :href="item.link1"></a>
+              <a id="live" target="_blank" class="text-danger bi bi-link-45deg mx-2 fs-1" :href="item.link2"></a>
             </div>
           </div>
         </div>

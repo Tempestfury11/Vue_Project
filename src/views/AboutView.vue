@@ -29,7 +29,7 @@
             <i class="bi fa-2x bi-filetype-java mx-1"></i>JAVASCRIPT
             <i class="fa-brands fa-2x fa-vuejs mx-1"></i>Vue.js
           </div>
-              <button id="about-link" target="_blank" href="https://github.com/Tempestfury11" class="button button2">GitHub</button>
+              <button><a id="about-link" target="_blank" href="https://github.com/Tempestfury11" class="button button2">GitHub</a></button>
           </div>
         </div>
     </div>
