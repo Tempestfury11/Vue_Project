@@ -7,31 +7,28 @@
         <div class="row">
           <div class="col-md-4">
             <img class="img-fluid"
-              src="https://i.postimg.cc/43HGTqKM/LS2.jpg"
-              alt="aboutmeimage" defer
-            />
+              src="https://i.postimg.cc/LhKL99ZJ/Whatsapp.jpg"
+              alt="aboutmeimage"/>
           </div>
           <div id="abouttext" class="col-md-8">
             <p>
-              I am a young old soul who enjoys the outdoors, loves sports and plays games with a passion.
+              I am 24 years old born and bred in Cape Town, South Africa. My interests include music, football and gaming. 
+              My skills include playing the guitar, piano and bass. I am very physically active as football is one of my main passions. When I have free time I enjoy listening to music, playing video games like Call of Duty and watching  my favourite football teams in the UCL. 
               <br>
-              I would say that I am honest, trustworthy and caring. 
+              When I attened school I founded the first football team named Hope United and captained them until I matricualated.
+              I also partipated in athletics getting my colors trice for sprinting and long distance.
+              I was also part of the chess team and RCL where I was deputy headboy for 3years.
               <br>
-              A kind face in a crowd of strangers who is always willing to lend a friendly hand to anyone in need.
-              <br>
-               I am motivated to achieve my goals and make my dreams a reality. 
-               <br>
-               My interest in technology began when I watched the Matrix, played Watchdogs on my Xbox, and browsed the internet.
+              I have been working since the age of 16 to help my family financally. Once I passed matric I got my first 9-5 job and have worked for various different companies you may find out more about that on my resume page.               Technology has always been an interest of mine growing up. So once I heard about lifechoices and the opportunity they offered I jumped at its. You may check out my projeccts in the project page
             </p>
-          <p>Birthday : 11/01/1998 </p>
           <p>Contact Number : 0618445578</p>
           <p>Email Address : Swiftyblue11@gmail.com</p>
-          <p>Location : Cape Town</p>
           <p>Language : English</p>
-          <p>Hobbies : Soccer, Gaming and Music</p>
           <div id="iconsabout">
             <i class="bi fa-2x bi-filetype-html"></i>HTML
             <i class="bi fa-2x bi-filetype-css"></i>CSS
+            <i class="bi fa-2x bi-filetype-sql"></i>MYSQL
+            <br>
             <i class="bi fa-2x bi-bootstrap"></i>BOOTSTRAP
             <i class="bi fa-2x bi-filetype-java"></i>JAVASCRIPT
             <i class="fa-brands fa-2x fa-vuejs"></i>Vue.js

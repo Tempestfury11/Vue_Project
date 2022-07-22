@@ -3,10 +3,6 @@
       <Navbar />
     </header>
   <router-view></router-view>
-  <main>
-    <LandingView />
-    <AboutView />
-  </main>
   <footer>
     <Footer />
   </footer>
