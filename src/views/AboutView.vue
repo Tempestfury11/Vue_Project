@@ -11,14 +11,11 @@
           <div id="abouttext" class="col-md-8">
             <h2>My Name Is Marshalino Jankowski</h2>
             <p>
-              I am 24 years old born and bred in Cape Town, South Africa. My interests include music, football and gaming. 
-              My skills include playing the guitar, piano and bass. I am very physically active as football is one of my main passions. When I have free time I enjoy listening to music, playing video games like Call of Duty and watching  my favourite football teams in the UCL. 
+              I am 24 years old, born, and bred in Cape Town, South Africa. My interests include music, football, and gaming. My skills include playing the guitar, piano and bass. I am very physically active as football is one of my main passions. When I have free time I enjoy listening to music, playing video games like Call of Duty and watching my favorite football teams in the UCL.
               <br>
-              When I attened school I founded the first football team named Hope United and captained them until I matricualated.
-              I also partipated in athletics getting my colors trice for sprinting and long distance.
-              I was also part of the chess team and RCL where I was deputy headboy for 3years.
+              When I attended school I founded the first football team named Hope United and captained them until I matriculated. I also participated in athletics, getting my colors thrice for sprinting and long distance. I was also part of the chess team and RCL where I was deputy headboy for 3years.
               <br>
-              I have been working since the age of 16 to help my family financally. Once I passed matric I got my first 9-5 job and have worked for various different companies you may find out more about that on my resume page.               Technology has always been an interest of mine growing up. So once I heard about lifechoices and the opportunity they offered I jumped at its. You may check out my projeccts in the project page
+                I have been working since the age of 16 to help my family financially. Once I passed matric I got my first 9-5 job and have worked for various different companies; you may find out more about that on my resume page. Technology has always been an interest of mine growing up. So once I heard about lifechoices and the opportunities they offered, I jumped at it. You may check out my projects in the project page
             </p>
           <p>Contact Number : 0618445578</p>
           <p>Email Address : Swiftyblue11@gmail.com</p>

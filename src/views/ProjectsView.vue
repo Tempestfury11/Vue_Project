@@ -1,10 +1,11 @@
 <template>
+
     <div class="projects">
         <h1>PROJECTS PAGE</h1>
         <h2>Take a peak at my projects</h2>
         <div id="workshop" class="container">
           <div class="row justify-content-center">
-<Cards />
+            <Cards />
           </div>
           
         </div>
@@ -25,6 +26,7 @@ export default {
     background-color: #00A5FF;
     padding:0 0 30px 0;
 }
+
 #workshop{
   justify-content: center;
   align-items: center;

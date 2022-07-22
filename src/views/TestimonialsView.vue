@@ -119,7 +119,6 @@ export default {
   .testimonial .card {
     position: relative;
     margin: 0 auto;
-    width: 350px;
     background: white;
     color: #00A5FF;
     padding: 20px;

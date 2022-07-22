@@ -28,6 +28,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: white;
+  overflow-x: hidden;
 }
 
 /* nav {

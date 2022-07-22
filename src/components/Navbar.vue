@@ -1,12 +1,12 @@
 <template>
     <router-view>
-    <div>
+    <div id="nav">
         <!-- Navbar -->
         <nav class="navbar navbar-expand-lg bg-danger navbar-light ">
     <!-- Container wrapper -->
         <div class="container-fluid">
+          <!-- Toggle button -->
         <a class="navbar-brand" href="#"><img src="https://i.postimg.cc/mgq855Rk/Screenshot-2022-07-22-110203-removebg-preview.png"></a>
-      <!-- Toggle button -->
         <button class="navbar-toggler" type="button" data-mdb-toggle="collapse" data-mdb-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <i class="fas fa-bars"></i>
         </button>
@@ -59,6 +59,10 @@
     li a {
       color: black;
       text-decoration: none;
+    }
+
+    #nav {
+      overflow-x :hidden;
     }
     ul li{
       padding: 0 10px;
