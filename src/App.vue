@@ -1,19 +1,31 @@
 <template>
-<Navbar/>
-  <router-view/>
-  <Footer/>
+    <header>
+      <Navbar />
+    </header>
+  <router-view></router-view>
+  <main>
+    <LandingView />
+    <AboutView />
+  </main>
+  <footer>
+    <Footer />
+  </footer>
 </template>
 
 <script>
-import Navbar from './components/Navbar.vue'
-import Footer from './components/Footer.vue'
+import Navbar from "./components/Navbar.vue";
+import LandingView from "./views/LandingView.vue";
+import AboutView from "./views/AboutView.vue";
+import Footer from "./components/Footer.vue";
 
-export default{
-  components:{
+export default {
+  components: {
     Navbar,
-    Footer
-  }
-}
+    LandingView,
+    AboutView,
+    Footer,
+  },
+};
 </script>
 <style>
 #app {
