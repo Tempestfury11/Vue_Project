@@ -30,9 +30,11 @@
           <p>Language : English</p>
           <p>Hobbies : Soccer, Gaming and Music</p>
           <div id="iconsabout">
-            <i class="bi fa-2x bi-filetype-html"></i>HTML<br>
-            <i class="bi fa-2x bi-filetype-css"></i>CSS<br>
-            <i class="bi fa-2x bi-bootstrap"></i>BOOTSTRAP<br>
+            <i class="bi fa-2x bi-filetype-html"></i>HTML
+            <i class="bi fa-2x bi-filetype-css"></i>CSS
+            <i class="bi fa-2x bi-bootstrap"></i>BOOTSTRAP
+            <i class="bi fa-2x bi-filetype-java"></i>JAVASCRIPT
+            <i class="fa-brands fa-2x fa-vuejs"></i>Vue.js
           </div>
               <button id="about-link" target="_blank" href="https://github.com/Tempestfury11" class="button button2">GitHub</button>
           </div>
