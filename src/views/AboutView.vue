@@ -1,16 +1,15 @@
 <template>
   <div class="about">
     <div class="container">
-        <h2 class="text-center"><span>About Me</span></h2>
-        <h3 class="text-center"><il>My Name Is Marshalino Jankowski</il></h3>
+        <h1 class="text-center">About Me</h1>
         <br>
         <div class="row">
           <div class="col-md-4">
-            <img class="img-fluid"
-              src="https://i.postimg.cc/LhKL99ZJ/Whatsapp.jpg"
+            <img class="img-fluid" src="https://i.postimg.cc/4dZrtdx2/suit.jpg"
               alt="aboutmeimage"/>
           </div>
           <div id="abouttext" class="col-md-8">
+            <h2>My Name Is Marshalino Jankowski</h2>
             <p>
               I am 24 years old born and bred in Cape Town, South Africa. My interests include music, football and gaming. 
               My skills include playing the guitar, piano and bass. I am very physically active as football is one of my main passions. When I have free time I enjoy listening to music, playing video games like Call of Duty and watching  my favourite football teams in the UCL. 
@@ -25,13 +24,13 @@
           <p>Email Address : Swiftyblue11@gmail.com</p>
           <p>Language : English</p>
           <div id="iconsabout">
-            <i class="bi fa-2x bi-filetype-html"></i>HTML
-            <i class="bi fa-2x bi-filetype-css"></i>CSS
-            <i class="bi fa-2x bi-filetype-sql"></i>MYSQL
+            <i class="bi fa-2x bi-filetype-html mx-1"></i>HTML
+            <i class="bi fa-2x bi-filetype-css mx-1"></i>CSS
+            <i class="bi fa-2x bi-filetype-sql mx-1"></i>MYSQL
             <br>
-            <i class="bi fa-2x bi-bootstrap"></i>BOOTSTRAP
-            <i class="bi fa-2x bi-filetype-java"></i>JAVASCRIPT
-            <i class="fa-brands fa-2x fa-vuejs"></i>Vue.js
+            <i class="bi fa-2x bi-bootstrap mx-1"></i>BOOTSTRAP
+            <i class="bi fa-2x bi-filetype-java mx-1"></i>JAVASCRIPT
+            <i class="fa-brands fa-2x fa-vuejs mx-1"></i>Vue.js
           </div>
               <button id="about-link" target="_blank" href="https://github.com/Tempestfury11" class="button button2">GitHub</button>
           </div>
@@ -51,7 +50,13 @@ export default {
   background-color: #00A5FF;
   padding: 50px 0 50px 0;
 }
-
+.about img{
+  width: 500px;
+  height: 600px;
+  object-fit: cover;
+  border: 1px solid black;
+  border-radius:30px ;
+}
 #abouttext{
   padding: 30px 0 0 0;
 }
@@ -83,4 +88,5 @@ export default {
   background-color: red;
   color: white;
 }
+
 </style>

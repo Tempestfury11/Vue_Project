@@ -1,8 +1,10 @@
 <template>
     <div id="landing">
-        <div class="container d-flex justify-content-center align-items-center flex-column h-100">
-            <h1>My name is Marshalino Jankowski</h1>
-            <h2 class="h5">Welcome to my portfolio</h2>
+        <div class="container justify-content-center align-items-center flex-column h-100" id="landing-data">
+            <h2>My Name Is...</h2>
+            <h1>MARSHALINO JANKOWSKI</h1>
+            <h2>And</h2>
+            <h1>WELCOME TO MY PORTFOLIO</h1>
         </div>
     </div>
 </template>
@@ -13,11 +15,19 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 #landing {
   background-image: url(https://i.postimg.cc/d3TLv8Gn/wp2462835-totodile-hd-wallpapers.jpg);
   background-size: cover;
   background-position:center;
+  background-repeat: no-repeat;
   height:96vh;
+  color: navy;
+}
+#landing h1{
+font-size:40px;
+}
+#landing-data{
+    padding:200px 0 0 0;
 }
 </style>

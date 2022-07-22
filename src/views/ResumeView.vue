@@ -1,8 +1,8 @@
 <template>
     <div class="resume">
       <div class="container">
-        <h1 class="text-center"><span>Resume</span></h1>
-        <h2>Work & Education Experience</h2>
+        <h1 class="text-center">RESUME</h1>
+        <h2>My Work & Education Experience</h2>
         <div class="row">
           <div class="school">
             <div>

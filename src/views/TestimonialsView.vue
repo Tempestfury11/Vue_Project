@@ -1,6 +1,7 @@
 <template>
       <div class="testimonials">
-        <h2>My Testimonials</h2>
+        <h1 class="text-white">MY TESTIMONIALS</h1>
+        <h2 class="text-white">What People Say About Me</h2>
         <div class="testimonial container">
           <div class="card">
             <div class="layer"></div>
