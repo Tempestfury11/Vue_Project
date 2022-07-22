@@ -1,20 +1,9 @@
 <template>
-    <router-view>
-    <div id="nav">
-        <!-- Navbar -->
-        <nav class="navbar navbar-expand-lg bg-danger navbar-light ">
-    <!-- Container wrapper -->
-        <div class="container-fluid">
-          <!-- Toggle button -->
-        <a class="navbar-brand" href="#"><img src="https://i.postimg.cc/mgq855Rk/Screenshot-2022-07-22-110203-removebg-preview.png"></a>
-        <button class="navbar-toggler" type="button" data-mdb-toggle="collapse" data-mdb-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <i class="fas fa-bars"></i>
-        </button>
-  
-      <!-- Collapsible wrapper -->
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul id="bar" class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
+  <header class="header">
+  <input class="menu-btn" type="checkbox" id="menu-btn" />
+  <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+  <ul class="menu">
+<li class="nav-item">
               <router-link :to="{ name: 'landing' }"><i class="bi bi-house-door-fill"></i>HOME</router-link>
             </li>
             <li class="nav-item">
@@ -38,37 +27,150 @@
             <li class="nav-item">
               <router-link :to="{ name: 'contact' }"><i class="bi bi-phone-fill"></i>CONTACT</router-link>
             </li>
-          </ul>
-        </div>
-        </div>
-    <!-- Container wrapper -->
-  </nav>
-  <!-- Navbar -->
-    </div>
-</router-view>
+  </ul>
+</header>
 </template>
 
-
 <script>
-    export default {
-      name: "Navbar",
-    };
-</script>
-    
-    <style scoped>
-    li a {
-      color: black;
-      text-decoration: none;
-    }
+export default {
 
-    #nav {
-      overflow-x :hidden;
-    }
-    ul li{
-      padding: 0 10px;
-    }
-    .nav-item{
-      font-size: larger;
-      justify-content: center;
-    }
+}
+</script>
+
+<style>
+
+a {
+  color: #000;
+}
+
+/* header */
+
+.header {
+  background-color: red;
+  box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
+  position: fixed;
+  width: 100%;
+  z-index: 3;
+}
+
+.header ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow: hidden;
+  background-color: red;
+}
+
+.header li a {
+  display: block;
+  padding: 20px 20px;
+  border-right: 1px solid #f4f4f4;
+  text-decoration: none;
+}
+
+.header li a:hover,
+.header .menu-btn:hover {
+  background-color: white;
+}
+
+.header .logo {
+  display: block;
+  float: left;
+  font-size: 2em;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+/* menu */
+
+.header .menu {
+  clear: both;
+  max-height: 0;
+  transition: max-height .2s ease-out;
+}
+
+/* menu icon */
+
+.header .menu-icon {
+  cursor: pointer;
+  display: inline-block;
+  float: right;
+  padding: 28px 20px;
+  position: relative;
+  user-select: none;
+}
+
+.header .menu-icon .navicon {
+  background: #333;
+  display: block;
+  height: 2px;
+  position: relative;
+  transition: background .2s ease-out;
+  width: 18px;
+}
+
+.header .menu-icon .navicon:before,
+.header .menu-icon .navicon:after {
+  background: #333;
+  content: '';
+  display: block;
+  height: 100%;
+  position: absolute;
+  transition: all .2s ease-out;
+  width: 100%;
+}
+
+.header .menu-icon .navicon:before {
+  top: 5px;
+}
+
+.header .menu-icon .navicon:after {
+  top: -5px;
+}
+
+/* menu btn */
+
+.header .menu-btn {
+  display: none;
+}
+
+.header .menu-btn:checked ~ .menu {
+  max-height: 240px;
+}
+
+.header .menu-btn:checked ~ .menu-icon .navicon {
+  background: transparent;
+}
+
+.header .menu-btn:checked ~ .menu-icon .navicon:before {
+  transform: rotate(-45deg);
+}
+
+.header .menu-btn:checked ~ .menu-icon .navicon:after {
+  transform: rotate(45deg);
+}
+
+.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
+.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
+  top: 0;
+}
+
+/* 48em = 768px */
+
+@media (min-width: 48em) {
+  .header li {
+    float: left;
+  }
+  .header li a {
+    padding: 20px 30px;
+  }
+  .header .menu {
+    clear: none;
+    float: right;
+    max-height: none;
+  }
+  .header .menu-icon {
+    display: none;
+  }
+}
 </style>

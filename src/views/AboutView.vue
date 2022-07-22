@@ -43,6 +43,7 @@ export default {
 </script>
 
 <style scoped>
+
 .about{
   background-color: #00A5FF;
   padding: 50px 0 50px 0;
