@@ -31,7 +31,7 @@ export default {
   }
   
   body {
-    background-color: #03a9f4;
+    background-color: black;
     height:97vh;
     display: flex;
     justify-content: center;
@@ -55,7 +55,7 @@ export default {
     left:50%;
     padding:0 20px;
     transform:translate(-50%,-50%);
-    background-color: #03a9f4;
+    background-color: #00A5FF;
     border: 2px solid white;
     border-radius: 20px;
     text-align:center;
@@ -70,7 +70,7 @@ export default {
   form > textarea {
     padding: 12px;
     margin: 12px auto;
-    border: 1px solid black;
+    border: 1px solid white;
     color: #00A5FF;
     background-color: white;
     border-radius: 4px;

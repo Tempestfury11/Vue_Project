@@ -49,13 +49,13 @@ export default {};
 
 <style>
 a {
-  color: #000;
+  color: white;
 }
 
 /* header */
 
 .header {
-  background-color: red;
+  background-color: black;
   box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.1);
   position: fixed;
   width: 100%;
@@ -67,19 +67,20 @@ a {
   padding: 0;
   list-style: none;
   overflow: hidden;
-  background-color: red;
+  background-color: black;
 }
 
 .header li a {
   display: block;
   padding: 20px 20px;
-  border-right: 1px solid #f4f4f4;
+  /* border-right: 1px solid white; */
   text-decoration: none;
 }
 
 .header li a:hover,
 .header .menu-btn:hover {
-  background-color: white;
+  background-color: #00a5ff;
+  color: white;
 }
 
 .header .logo {

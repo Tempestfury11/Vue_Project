@@ -153,8 +153,8 @@ export default {};
 
 <style scoped>
 .testimonials {
-  color: #00a5ff;
-  background-color: #00a5ff;
+  color: black;
+  background-color: black;
   padding: 0 0 30px 0;
 }
 .testimonials h1 {

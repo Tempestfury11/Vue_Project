@@ -1,6 +1,6 @@
 <template>
 <!-- Footer -->
-<footer class="bg-danger text-center ">
+<footer id="foot" class="text-center ">
   <!-- Grid container -->
   <div class="container p-4">
 
@@ -27,3 +27,10 @@
 </footer>
 <!-- Footer -->
 </template>
+
+<style>
+#foot{
+  color: white;
+  background-color: black;
+}
+</style>

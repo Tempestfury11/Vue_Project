@@ -23,7 +23,7 @@ export default {
 
 <style scoped>
 .projects{
-    background-color: #00A5FF;
+    background-color: black;
     padding:0 0 30px 0;
 }
 h1{

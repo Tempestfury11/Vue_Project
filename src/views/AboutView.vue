@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <div class="container">
-        <h1 class="text-center">About Me</h1>
+        <h1 class="text-center">ABOUT ME</h1>
         <br>
         <div class="row">
           <div class="col-md-4">
@@ -45,14 +45,14 @@ export default {
 <style scoped>
 
 .about{
-  background-color: #00A5FF;
+  background-color: black;
   padding: 50px 0 50px 0;
 }
 .about img{
   width: 500px;
   height: 600px;
   object-fit: cover;
-  border: 1px solid black;
+  border: 5px solid white;
   border-radius:30px ;
 }
 #abouttext{
@@ -77,13 +77,13 @@ export default {
 }
 
 .button2 {
-  background-color: navy; 
-  color: white; 
+  background-color: #00a5ff; 
+  color: black; 
 }
 
 .button2:hover {
-  background-color: red;
-  color: white;
+  background-color: white;
+  color: black;
 }
 
 </style>

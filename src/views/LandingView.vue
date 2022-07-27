@@ -17,15 +17,15 @@ export default {
 
 <style scoped>
 #landing {
-  background-image: url(https://i.postimg.cc/d3TLv8Gn/wp2462835-totodile-hd-wallpapers.jpg);
+  background-image: url(https://i.im.ge/2022/07/26/FhaCUD.jpg);
   background-size: cover;
   background-position:center;
   background-repeat: no-repeat;
-  height:96vh;
-  color: navy;
+  height:100vh;
+  color: white;
 }
 #landing h1{
-font-size:40px;
+font-family: 'League Gothic', sans-serif;
 }
 #landing-data{
     padding:200px 0 0 0;
