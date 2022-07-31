@@ -102,9 +102,9 @@ export default {
   align-items: center;
 }
 .cards{
-  border: 1px solid white;
-  border-radius: 3px;
-  padding: 0 20px 0 0;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
 }
 ul{
   list-style: none;

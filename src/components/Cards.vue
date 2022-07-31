@@ -4,7 +4,7 @@
       <div class="row">
         <div
           class="col-md-4 col-lg-4 col-12"
-          v-for="item in AboutArray"
+          v-for="item in ProjectsArray"
           :key="item.id"
         >
           <section class="card-content">
@@ -44,7 +44,7 @@
 export default {
   data() {
     return {
-      AboutArray: [
+      ProjectsArray: [
         {
           id: 1,
           icon: "https://i.postimg.cc/rwpfW4TP/Screenshot-2022-07-22-144319.png",
@@ -117,20 +117,17 @@ export default {
 <style scoped>
 #project-img {
   object-fit: cover;
-  /* aspect-ratio: 1; */
 }
 .card-content {
   margin: 50px auto 50px;
   display: grid;
-  /* grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); */
-  grid-gap: 20px;
+ grid-gap: 20px;
 }
 
 .card-content .card {
   position: relative;
   margin: 0 auto;
   width: 285px !important;
-  /* width: 350px !important; */
   width: fit-content;
   background: white;
   color: #00a5ff;

@@ -90,7 +90,7 @@
           <div class="details">
             <h2>Monique Dampies</h2>
             <span>Peer</span>
-            <h2>Moniquedampies1861@gmail.com</h2>
+            <h2>Moniquedampies@gmail.com</h2>
           </div>
         </div>
       </div>
@@ -164,7 +164,7 @@ export default {};
 .testimonial {
   margin: 50px auto 100px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-gap: 20px;
 }
 .testimonial .card {
