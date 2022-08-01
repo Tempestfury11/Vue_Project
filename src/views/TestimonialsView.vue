@@ -32,10 +32,10 @@
           <p>
             Marshalino Jankowski, a talented and diligent individual with a can
             do attitude, in stressful situations he jumps to action and takes
-            charge. In my time with him I've seen him put in the effort to
+            charge. In my time I sepnt with him I've seen him put in the effort to
             improve himself and his work which any team could appreciate. He is
             an well put together guy easy going and fun to be around but who can
-            take initiative when needed
+            take initiative when needed and lead himself or his team to greatness
           </p>
           <div class="image">
             <img src="https://i.postimg.cc/htLxqjhq/Emile2.jpg" alt="avatar" />
@@ -53,10 +53,10 @@
         <div class="layer"></div>
         <div class="content">
           <p>
-            Marshalino is a great person to be around. He always lifts the mood
+            Marshalino Jankowski is a great person to be around. He always lifts the mood
             which puts me in a better working mood thus increasing my work ethic
             and productivity. He is a team player and a natural born leader
-            doing what must be done for the best of the team. I can say
+            doing what must be done for the best of the team. He is extremely hard working. I can say
             Marshalino an amazing person and will be an asset to any company or
             workplace that he is apart of
           </p>
@@ -140,6 +140,48 @@
             <h2>Taucia Jackson</h2>
             <span>Peer</span>
             <h2>Taucia.jackson123@gmail.com</h2>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="layer"></div>
+        <div class="content">
+          <p>
+            "I think that Marshalino Jankowski is one of the most hardworking people i know, he is one of those people that was blessed with a never give up attitude. He is a great asset to the team as he has an infectious smile and he always makes the people around him laugh with making light out of stressful situations. When work needs to be done you can find him online at early hours pushing his code"
+          </p>
+          <div class="image">
+            <img
+              src="https://i.postimg.cc/yx2507Wz/Cassidy-1.jpg"
+              alt="avatar"
+            />
+          </div>
+          <br />
+          <div class="details">
+            <h2>Cassidy Manual</h2>
+            <span>Peer</span>
+            <h2>Cassidymanuel.59@gmail.com</h2>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="layer"></div>
+        <div class="content">
+          <p>
+            Marshalino is a person with value, stature and very good manners. He presents a true gentleman position and shows a lot of integrity. He is a hardworker, tries his very best in every task given to him and is able to complete it before the actual date or time due. May Marshalino Jankowski be given a chance to this experience because I assure you he will be eager to learn.
+          </p>
+          <div class="image">
+            <img
+              src="https://i.postimg.cc/NfbM1Mcc/15.jpg"
+              alt="avatar"
+            />
+          </div>
+          <br />
+          <div class="details">
+            <h2>Godwin Dzvapatsva</h2>
+            <span>Lecturer</span>
+            <h2>godwin@lifechoices.co.za</h2>
           </div>
         </div>
       </div>
