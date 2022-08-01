@@ -219,6 +219,7 @@ export default {};
   text-align: center;
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
   overflow: hidden;
+  border-radius: 30px;
 }
 .testimonial .card .layer {
   position: absolute;

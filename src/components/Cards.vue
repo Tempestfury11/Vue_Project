@@ -121,7 +121,7 @@ export default {
 .card-content {
   margin: 50px auto 50px;
   display: grid;
- grid-gap: 20px;
+  grid-gap: 20px;
 }
 
 .card-content .card {
