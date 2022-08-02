@@ -17,7 +17,7 @@ export default {
 
 <style scoped>
 #landing {
-  background-image: url(https://i.im.ge/2022/07/26/FhaCUD.jpg);
+  background-image: url(https://i.postimg.cc/RVXNBZhF/WnJVZT.jpg);
   background-size: cover;
   background-position:center;
   background-repeat: no-repeat;

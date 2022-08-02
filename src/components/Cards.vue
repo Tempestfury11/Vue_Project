@@ -106,7 +106,7 @@ export default {
           icon: "https://i.postimg.cc/nz8M8N1f/marvel.png",
           title: "Vue Group Project",
           link1: "https://github.com/Emivw/Marvel-Inc-vuex",
-          link2: "#",
+          link2: "https://62da7ce9b3e78d009c9c448d--luxury-phoenix-954cac.netlify.app/",
         },
       ],
     };
