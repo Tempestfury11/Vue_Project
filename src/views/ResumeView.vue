@@ -14,50 +14,50 @@
           </div>
           <div id="jobs" class="col-md-6">
             <div class="cards">
-              <h2>WOOLWORTHS</h2>
-              <ul>
-              <h4>Duties</h4> Manage stock control, providing customer service and facilitate transactions through sales.
-              <h4>Duration</h4>June 2017 to January 2018
-              <h4>Location</h4>Milner Road, Rhondebosch
-              <h4>References</h4>Nuraan Samsodien (065 943 5988)
-              </ul>
+              <p>
+                <h2>WOOLWORTHS</h2>
+                <h4>Duties</h4> Manage stock control, providing customer service and facilitate transactions through sales.
+                <h4>Duration</h4>June 2017 to January 2018
+                <h4>Location</h4>Milner Road, Rhondebosch
+                <h4>References</h4>Nuraan Samsodien (065 943 5988)
+              </p>
             </div>
             <div class="cards">
-            <h2>WOOLWORTHS</h2>
-            <ul>
-            <h4>Duties</h4>Manage stock control, providing customer service and facilitate transactions through sales.
-            <h4>Duration</h4>November 2018 to January 2019
-            <h4>Location</h4>Kroombrom, Athlone
-            <h4>References</h4>Sharon Matthysen (0682578605)
-            </ul>
+            <p>
+              <h2>WOOLWORTHS</h2>
+              <h4>Duties</h4>Manage stock control, providing customer service and facilitate transactions through sales.
+              <h4>Duration</h4>November 2018 to January 2019
+              <h4>Location</h4>Kroombrom, Athlone
+              <h4>References</h4>Sharon Matthysen (0682578605)
+            </p>
           </div>
             <div class="cards">
-              <h2>MERCHANTS</h2>
-              <ul>
+              <p>
+                <h2>MERCHANTS</h2>
                 <h4>Duties</h4>Manage Inbound and outbound calls, providing customer service through emails, LiveChat and Social Media
-              <h4>Duration</h4>January 2019 to June 2020
-              <h4>Location</h4>The District Building, Woodstock
-              <h4>References</h4>Ralton Pillay(084 066 7197)
-              </ul>
+                <h4>Duration</h4>January 2019 to June 2020
+                <h4>Location</h4>The District Building, Woodstock
+                <h4>References</h4>Ralton Pillay(084 066 7197)
+              </p>
             </div>
           </div>
           <div id="jobs" class="col-md-6">
             <div class="cards">
-              <h2>TAKEALOT</h2>
-              <ul>
-              <h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
-              <h4>Duration</h4>June 2020 to August 2020
-              <h4>Location</h4>Work From Home
-              <h4>References</h4>Kirsten Klein (062 390 8944)
-              </ul>
+              <p>
+                <h2>TAKEALOT</h2>
+                <h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
+                <h4>Duration</h4>June 2020 to August 2020
+                <h4>Location</h4>Work From Home
+                <h4>References</h4>Kirsten Klein (062 390 8944)
+              </p>
             </div>
             <div class="cards">
-              <h2>CAPITA</h2>
               <p>
-              <h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
-              <h4>Duration</h4>January 2021 to May 2021
-              <h4>Location</h4>Cape Town
-              <h4>References</h4>Savanna Ensil (063 155 3915)
+                <h2>CAPITA</h2>
+                <h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
+                <h4>Duration</h4>January 2021 to May 2021
+                <h4>Location</h4>Cape Town
+                <h4>References</h4>Savanna Ensil (063 155 3915)
               </p>
             </div>
             <div class="cards">
