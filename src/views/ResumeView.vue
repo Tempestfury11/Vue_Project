@@ -16,10 +16,10 @@
             <div class="cards">
               <h2>WOOLWORTHS</h2>
               <ul>
-                <li><h4>Duties</h4> Manage stock control, providing customer service and facilitate transactions through sales.</li>
-                <li><h4>Duration</h4>June 2017 to January 2018</li>
-                <li><h4>Location</h4>Milner Road, Rhondebosch</li>
-                <li><h4>References</h4>Nuraan Samsodien (065 943 5988)</li>
+              <h4>Duties</h4> Manage stock control, providing customer service and facilitate transactions through sales.
+              <h4>Duration</h4>June 2017 to January 2018
+              <h4>Location</h4>Milner Road, Rhondebosch
+              <h4>References</h4>Nuraan Samsodien (065 943 5988)
               </ul>
             </div>
             <div class="cards">
@@ -53,21 +53,21 @@
             </div>
             <div class="cards">
               <h2>CAPITA</h2>
-              <ul>
+              <p>
               <h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
               <h4>Duration</h4>January 2021 to May 2021
               <h4>Location</h4>Cape Town
               <h4>References</h4>Savanna Ensil (063 155 3915)
-              </ul>
+              </p>
             </div>
             <div class="cards">
-              <h2>BES UTILITIES</h2>
-              <ul>
-            <h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
-            <h4>Duration</h4>June 2021 to April 2022
-            <h4>Location</h4>Bellville
-            <h4>References</h4>Keenan Stuurman (0718570531)
-            </ul>
+              <p>
+                <h2>BES UTILITIES</h2>
+                <h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
+                <h4>Duration</h4>June 2021 to April 2022
+                <h4>Location</h4>Bellville
+                <h4>References</h4>Keenan Stuurman (0718570531)
+              </p>
             </div>
           </div>
         </div>
