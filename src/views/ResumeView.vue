@@ -22,15 +22,15 @@
                 <h4>References</h4>Nuraan Samsodien (065 943 5988)
               </p>
             </div>
-            <div class="cards">
-            <p>
-              <h2>WOOLWORTHS</h2>
-              <h4>Duties</h4>Manage stock control, providing customer service and facilitate transactions through sales.
-              <h4>Duration</h4>November 2018 to January 2019
-              <h4>Location</h4>Kroombrom, Athlone
-              <h4>References</h4>Sharon Matthysen (0682578605)
-            </p>
-          </div>
+              <div class="cards">
+                <p>
+                  <h2>TAKEALOT</h2>
+                  <h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
+                  <h4>Duration</h4>June 2020 to August 2020
+                  <h4>Location</h4>Work From Home
+                  <h4>References</h4>Kirsten Klein (062 390 8944)
+                </p>
+              </div>
             <div class="cards">
               <p>
                 <h2>MERCHANTS</h2>
@@ -44,11 +44,11 @@
           <div id="jobs" class="col-md-6">
             <div class="cards">
               <p>
-                <h2>TAKEALOT</h2>
-                <h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
-                <h4>Duration</h4>June 2020 to August 2020
-                <h4>Location</h4>Work From Home
-                <h4>References</h4>Kirsten Klein (062 390 8944)
+              <h2>WOOLWORTHS</h2>
+              <h4>Duties</h4>Manage stock control, providing customer service and facilitate transactions through sales.
+              <h4>Duration</h4>November 2018 to January 2019
+              <h4>Location</h4>Kroombrom, Athlone
+              <h4>References</h4>Sharon Matthysen (068 257 8605)
               </p>
             </div>
             <div class="cards">
