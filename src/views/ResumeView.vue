@@ -25,19 +25,19 @@
             <div class="cards">
             <h2>WOOLWORTHS</h2>
             <ul>
-              <li><h4>Duties</h4>Manage stock control, providing customer service and facilitate transactions through sales.</li>
-              <li><h4>Duration</h4>November 2018 to January 2019</li>
-              <li><h4>Location</h4>Kroombrom, Athlone</li>
-              <li><h4>References</h4>Sharon Matthysen (0682578605)</li>
+            <h4>Duties</h4>Manage stock control, providing customer service and facilitate transactions through sales.
+            <h4>Duration</h4>November 2018 to January 2019
+            <h4>Location</h4>Kroombrom, Athlone
+            <h4>References</h4>Sharon Matthysen (0682578605)
             </ul>
           </div>
             <div class="cards">
               <h2>MERCHANTS</h2>
               <ul>
-                <li><h4>Duties</h4>Manage Inbound and outbound calls, providing customer service through emails, LiveChat and Social Media</li>
-                <li><h4>Duration</h4>January 2019 to June 2020</li>
-                <li><h4>Location</h4>The District Building, Woodstock</li>
-                <li><h4>References</h4>Ralton Pillay(084 066 7197)</li>
+                <h4>Duties</h4>Manage Inbound and outbound calls, providing customer service through emails, LiveChat and Social Media
+              <h4>Duration</h4>January 2019 to June 2020
+              <h4>Location</h4>The District Building, Woodstock
+              <h4>References</h4>Ralton Pillay(084 066 7197)
               </ul>
             </div>
           </div>
@@ -45,28 +45,28 @@
             <div class="cards">
               <h2>TAKEALOT</h2>
               <ul>
-                <li><h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails</li>
-                <li><h4>Duration</h4>June 2020 to August 2020</li>
-                <li><h4>Location</h4>Work From Home</li>
-                <li><h4>References</h4>Kirsten Klein (062 390 8944)</li>
+              <h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
+              <h4>Duration</h4>June 2020 to August 2020
+              <h4>Location</h4>Work From Home
+              <h4>References</h4>Kirsten Klein (062 390 8944)
               </ul>
             </div>
             <div class="cards">
               <h2>CAPITA</h2>
               <ul>
-                <li><h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails</li>
-                <li><h4>Duration</h4>January 2021 to May 2021</li>
-                <li><h4>Location</h4>Cape Town</li>
-                <li><h4>References</h4>Savanna Ensil (063 155 3915)</li>
+              <h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
+              <h4>Duration</h4>January 2021 to May 2021
+              <h4>Location</h4>Cape Town
+              <h4>References</h4>Savanna Ensil (063 155 3915)
               </ul>
             </div>
             <div class="cards">
               <h2>BES UTILITIES</h2>
               <ul>
-              <li><h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails</li>
-              <li><h4>Duration</h4>November July 2021 to April 2022</li>
-              <li><h4>Location</h4>Bellville</li>
-              <li><h4>References</h4>Keenan Stuurman (0718570531)</li>
+            <h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
+            <h4>Duration</h4>June 2021 to April 2022
+            <h4>Location</h4>Bellville
+            <h4>References</h4>Keenan Stuurman (0718570531)
             </ul>
             </div>
           </div>
