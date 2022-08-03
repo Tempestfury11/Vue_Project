@@ -109,7 +109,4 @@ export default {
 ul{
   list-style: none;
 }
-h2{
-  text-decoration: underline;
-}
 </style>
