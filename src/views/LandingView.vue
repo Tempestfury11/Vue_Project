@@ -17,7 +17,7 @@ export default {
 
 <style scoped>
 #landing {
-  background-image: url(https://i.postimg.cc/RVXNBZhF/WnJVZT.jpg);
+  background-image: url(https://i.postimg.cc/Pq2wvZ04/Geazycar.jpg);
   background-size: cover;
   background-position:center;
   background-repeat: no-repeat;
