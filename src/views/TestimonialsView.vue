@@ -1,7 +1,7 @@
 <template>
   <div class="testimonials">
     <h1 class="text-white">MY TESTIMONIALS</h1>
-    <h2 class="text-white">What People Say About Me</h2>
+    <h2 id="heading">What People Say About Me</h2>
     <div class="testimonial container">
       <div class="card">
         <div class="layer"></div>
@@ -255,7 +255,7 @@ export default {};
   font-size: 18px;
 }
 .testimonial .card .content .details span {
-  color: #03a9f4;
+  color: #00a5ff;
   font-size: 14px;
   transition: 0.5s;
 }
@@ -264,5 +264,8 @@ export default {};
 }
 .testimonial .card:hover .content p {
   color: white;
+}
+#heading{
+  color: #00a5ff;
 }
 </style>

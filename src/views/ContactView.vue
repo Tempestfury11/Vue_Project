@@ -1,11 +1,11 @@
 <template>
   <body>
       <div class="contact">
-      <form action="https://formspree.io/f/mvoleqaw"
-  method="POST">
+        <form action="https://formspree.io/f/mvoleqaw"
+        method="POST">
         <div>
-        <img src="https://cdn4.iconfinder.com/data/icons/basic-user-interface-elements/700/mail-letter-offer-256.png" alt="icon">
-         </div>
+          <img src="https://cdn4.iconfinder.com/data/icons/basic-user-interface-elements/700/mail-letter-offer-256.png" alt="icon">
+        </div>
         <input type="text" placeholder="Name" name="name" required>
         <input type="text" placeholder="Email address (required)" required>
         <input type="text" placeholder="Topic (required)" required>
@@ -55,7 +55,7 @@ export default {
     left:50%;
     padding:0 20px;
     transform:translate(-50%,-50%);
-    background-color: #00A5FF;
+    background-color: #00a5ff;
     border: 2px solid white;
     border-radius: 20px;
     text-align:center;

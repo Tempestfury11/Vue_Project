@@ -136,7 +136,7 @@ export default {
   text-align: center;
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
   overflow: hidden;
-  border-radius: 30px;
+  border-radius: 20px;
 }
 .card-content .card .layer {
   position: absolute;
@@ -172,12 +172,12 @@ export default {
   font-size: 18px;
 }
 .card-content .card .content .details span {
-  color: #03a9f4;
+  color: #00a5ff;
   font-size: 14px;
   transition: 0.5s;
 }
 .card-content .card:hover .content .details span {
-  color: #fff;
+  color: white;
 }
 .card-content .card:hover .content p {
   color: white;

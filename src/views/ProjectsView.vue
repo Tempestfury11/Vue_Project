@@ -1,8 +1,7 @@
 <template>
-
     <div class="projects">
-        <h1>PROJECTS PAGE</h1>
-        <h2>Take a peak at my projects</h2>
+        <h1>MY PROJECTS</h1>
+        <h2 id="header">Take a peak at my projects</h2>
         <!-- <div id="workshop" class="container">
           <div class="row justify-content-center"> -->
             <Cards />
@@ -28,6 +27,9 @@ export default {
 }
 h1{
   padding: 70px 0 0 0;
+}
+#header{
+  color: #00a5ff;
 }
 #workshop{
   justify-content: center;

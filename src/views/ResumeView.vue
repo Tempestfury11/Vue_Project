@@ -1,7 +1,7 @@
 <template>
     <div class="resume">
       <div class="container">
-        <h1 class="text-center">RESUME</h1>
+        <h1 class="text-center">MY RESUME</h1>
         <h2>My Work & Education Experience</h2>
         <div class="row">
           <div class="col-12">
