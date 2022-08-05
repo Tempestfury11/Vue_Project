@@ -2,7 +2,7 @@
     <div class="resume">
       <div class="container">
         <h1 class="text-center">RESUME</h1>
-        <h2>My Work & Education Experience</h2>
+        <h2 id="heading">My <span>Work</span> & <span>Education</span> Experience</h2>
         <div class="row">
           <div class="school">
             <div class="cards">
@@ -15,58 +15,58 @@
           <div id="jobs" class="col-md-6">
             <div class="cards">
               <p>
-                <h2>WOOLWORTHS</h2>
-                <h4>Duties</h4> Manage stock control, providing customer service and facilitate transactions through sales.
-                <h4>Duration</h4>June 2017 to January 2018
-                <h4>Location</h4>Milner Road, Rhondebosch
-                <h4>References</h4>Nuraan Samsodien (065 943 5988)
+                <h2 id="heading">WOOLWORTHS</h2>
+                <h4 id="heading">Duties</h4> Manage stock control, providing customer service and facilitate transactions through sales.
+                <h4 id="heading">Duration</h4>June 2017 to January 2018
+                <h4 id="heading">Location</h4>Milner Road, Rhondebosch
+                <h4 id="heading">References</h4>Nuraan Samsodien (065 943 5988)
               </p>
             </div>
               <div class="cards">
                 <p>
-                  <h2>TAKEALOT</h2>
-                  <h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
-                  <h4>Duration</h4>June 2020 to August 2020
-                  <h4>Location</h4>Work From Home
-                  <h4>References</h4>Kirsten Klein (062 390 8944)
+                  <h2 id="heading">TAKEALOT</h2>
+                  <h4 id="heading">Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
+                  <h4 id="heading">Duration</h4>June 2020 to August 2020
+                  <h4 id="heading">Location</h4>Work From Home
+                  <h4 id="heading">References</h4>Kirsten Klein (062 390 8944)
                 </p>
               </div>
             <div class="cards">
               <p>
-                <h2>MERCHANTS</h2>
-                <h4>Duties</h4>Manage Inbound and outbound calls, providing customer service through emails, LiveChat and Social Media
-                <h4>Duration</h4>January 2019 to June 2020
-                <h4>Location</h4>The District Building, Woodstock
-                <h4>References</h4>Ralton Pillay(084 066 7197)
+                <h2 id="heading">MERCHANTS</h2>
+                <h4 id="heading">Duties</h4>Manage Inbound and outbound calls, providing customer service through emails, LiveChat and Social Media
+                <h4 id="heading">Duration</h4>January 2019 to June 2020
+                <h4 id="heading">Location</h4>The District Building, Woodstock
+                <h4 id="heading">References</h4>Ralton Pillay(084 066 7197)
               </p>
             </div>
           </div>
           <div id="jobs" class="col-md-6">
             <div class="cards">
               <p>
-              <h2>WOOLWORTHS</h2>
-              <h4>Duties</h4>Manage stock control, providing customer service and facilitate transactions through sales.
-              <h4>Duration</h4>November 2018 to January 2019
-              <h4>Location</h4>Kroombrom, Athlone
-              <h4>References</h4>Sharon Matthysen (068 257 8605)
+              <h2 id="heading">WOOLWORTHS</h2>
+              <h4 id="heading">Duties</h4>Manage stock control, providing customer service and facilitate transactions through sales.
+              <h4 id="heading">Duration</h4>November 2018 to January 2019
+              <h4 id="heading">Location</h4>Kroombrom, Athlone
+              <h4 id="heading">References</h4>Sharon Matthysen (068 257 8605)
               </p>
             </div>
             <div class="cards">
               <p>
-                <h2>CAPITA</h2>
-                <h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
-                <h4>Duration</h4>January 2021 to May 2021
-                <h4>Location</h4>Cape Town
-                <h4>References</h4>Savanna Ensil (063 155 3915)
+                <h2 id="heading">CAPITA</h2>
+                <h4 id="heading">Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
+                <h4 id="heading">Duration</h4>January 2021 to May 2021
+                <h4 id="heading">Location</h4>Cape Town
+                <h4 id="heading">References</h4>Savanna Ensil (063 155 3915)
               </p>
             </div>
             <div class="cards">
               <p>
-                <h2>BES UTILITIES</h2>
-                <h4>Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
-                <h4>Duration</h4>June 2021 to April 2022
-                <h4>Location</h4>Bellville
-                <h4>References</h4>Keenan Stuurman (0718570531)
+                <h2 id="heading">BES UTILITIES</h2>
+                <h4 id="heading">Duties</h4>Managing customer queries and accounts providing customer service through voice and emails
+                <h4 id="heading">Duration</h4>June 2021 to April 2022
+                <h4 id="heading">Location</h4>Bellville
+                <h4 id="heading">References</h4>Keenan Stuurman (0718570531)
               </p>
             </div>
           </div>
@@ -82,6 +82,9 @@ export default {
 </script>
 
 <style scoped>
+#heading{
+font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+}
 .resume {
   background-color: black;
   padding: 0 0 30 0;

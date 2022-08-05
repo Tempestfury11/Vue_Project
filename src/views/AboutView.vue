@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <div class="container">
-        <h1 id="heading" class="text-center">ABOUT <span class="dis">ME</span></h1>
+        <h1 class="text-center">ABOUT <span class="dis">ME</span></h1>
         <br>
         <div class="row">
           <div class="col-md-4">
@@ -9,7 +9,7 @@
               alt="aboutmeimage"/>
           </div>
           <div id="abouttext" class="col-md-8">
-            <h2 id="heading">My Name Is <span class="dis">Marshalino Jankowski</span></h2>
+            <h2>My Name Is <span class="dis">Marshalino Jankowski</span></h2>
             <p>
               I am 24 years old, born, and bred in Cape Town, South Africa. My interests include music, football, and gaming. My skills include playing the guitar, piano and bass. I am very physically active as football is one of my main passions. When I have free time I enjoy listening to music, playing video games like Call of Duty and watching my favorite football teams in the UCL
               <br>
@@ -21,13 +21,13 @@
           <p>Email Address : Swiftyblue11@gmail.com</p>
           <p>Language : English</p>
           <div id="iconsabout">
-            <i class="bi fa-2x bi-filetype-html mx-1">HTML</i>
-            <i class="bi fa-2x bi-filetype-css mx-1">CSS</i>
-            <i class="bi fa-2x bi-filetype-sql mx-1">MYSQL</i>
+            <i class="bi fa-2x bi-filetype-html mx-1"></i><span>HTML</span>
+            <i class="bi fa-2x bi-filetype-css mx-1"></i><span>CSS</span>
+            <i class="bi fa-2x bi-filetype-sql mx-1"></i><span>MYSQL</span>
             <br>
-            <i class="bi fa-2x bi-bootstrap mx-1">BOOTSTRAP</i>
-            <i class="bi fa-2x bi-filetype-java mx-1">JAVASCRIPT</i>
-            <i class="fa-brands fa-2x fa-vuejs mx-1">Vue.js</i>
+            <i class="bi fa-2x bi-bootstrap mx-1"></i><span>BOOTSTRAP</span>
+            <i class="bi fa-2x bi-filetype-java mx-1"></i><span>JAVASCRIPT</span>
+            <i class="fa-brands fa-2x fa-vuejs mx-1"></i><span>Vue.js</span>
           </div>
               <a target="_blank" href="https://github.com/Tempestfury11" class="button button2">GitHub</a>
           </div>
@@ -45,9 +45,6 @@ export default {
 <style scoped>
 .dis{
 color: #00a5ff;
-}
-#heading{
-font-family: New Century Schoolbook, TeX Gyre Schola, serif;
 }
 
 .about{

@@ -20,6 +20,9 @@ export default {
 };
 </script>
 <style>
+*{
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
