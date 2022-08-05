@@ -4,13 +4,15 @@
         <h1 class="text-center">RESUME</h1>
         <h2>My Work & Education Experience</h2>
         <div class="row">
-          <div class="school">
+          <div class="col-12">
+            <div class="school">
             <div>
               <h5 id="heading">Alexander Sinton High School</h5>
               <i>I started my highschool career off at Alexander Sinton High, based in Crawford. I was only there for a year however I learned how to play guitar in my time there</i>
               <h5 id="heading">School of Hope</h5>
               <i>For the rest of my highschool career, I attended School of Hope, based in Observatory. I was a part of the RCL for 4years and Deputy Headboy for 3years. I started the first football team and captained them until I matriculated</i>
             </div>
+          </div>
           </div>
           <div id="jobs" class="col-md-6">
             <div class="cards">
@@ -98,7 +100,7 @@ export default {
 .school{
   background-color: black;
   color: white;
-  margin: 20px 0;
+  margin: 20px 20px 20px 20px;
   padding: 20px 0 20px 0;
   border: 2px solid #00a5ff;
   border-radius: 20px
