@@ -77,7 +77,7 @@ export default {
 
 .button2 {
   background-color: #00a5ff; 
-  color: black; 
+  color: white; 
 }
 
 .button2:hover {
