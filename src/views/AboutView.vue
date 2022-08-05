@@ -50,10 +50,10 @@ export default {
 }
 .about img{
   width: 500px;
-  height: 600px;
+  height: 750px;
   object-fit: cover;
   border: 5px solid white;
-  border-radius:30px ;
+  border-radius:20px ;
 }
 #abouttext{
   padding: 30px 0 0 0;
