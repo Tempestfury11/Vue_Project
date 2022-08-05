@@ -127,7 +127,7 @@ export default {
 .card-content .card {
   position: relative;
   margin: 0 auto;
-  width: 285px !important;
+  width: 250px !important;
   width: fit-content;
   background: white;
   color: #00a5ff;
