@@ -1,10 +1,10 @@
 <template>
     <div id="landing">
         <div class="container justify-content-center align-items-center flex-column h-100" id="landing-data">
-            <h2>My Name Is...</h2>
-            <h1>MARSHALINO JANKOWSKI</h1>
-            <h2>And</h2>
-            <h1>WELCOME TO MY PORTFOLIO</h1>
+            <h2 class="heading">My Name Is...</h2>
+            <h1 class="heading">MARSHALINO JANKOWSKI</h1>
+            <h2 class="heading">And</h2>
+            <h1 class="heading">WELCOME TO MY PORTFOLIO</h1>
         </div>
     </div>
 </template>
@@ -24,10 +24,10 @@ export default {
   height:100vh;
   color: white;
 }
-#landing h1{
-font-family: 'League Gothic', sans-serif;
+.heading{
+font-family: New Century Schoolbook, TeX Gyre Schola, serif;
 }
 #landing-data{
-    padding:200px 0 0 0;
+    padding:200px 0 0 400px;
 }
 </style>

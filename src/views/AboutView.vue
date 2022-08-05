@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <div class="container">
-        <h1 class="text-center">ABOUT ME</h1>
+        <h1 id="heading" class="text-center">ABOUT <span class="dis">ME</span></h1>
         <br>
         <div class="row">
           <div class="col-md-4">
@@ -9,11 +9,11 @@
               alt="aboutmeimage"/>
           </div>
           <div id="abouttext" class="col-md-8">
-            <h2>My Name Is Marshalino Jankowski</h2>
+            <h2 id="heading">My Name Is <span class="dis">Marshalino Jankowski</span></h2>
             <p>
-              I am 24 years old, born, and bred in Cape Town, South Africa. My interests include music, football, and gaming. My skills include playing the guitar, piano and bass. I am very physically active as football is one of my main passions. When I have free time I enjoy listening to music, playing video games like Call of Duty and watching my favorite football teams in the UCL.
+              I am 24 years old, born, and bred in Cape Town, South Africa. My interests include music, football, and gaming. My skills include playing the guitar, piano and bass. I am very physically active as football is one of my main passions. When I have free time I enjoy listening to music, playing video games like Call of Duty and watching my favorite football teams in the UCL
               <br>
-              When I attended school I founded the first football team named Hope United and captained them until I matriculated. I also participated in athletics, getting my colors thrice for sprinting and long distance. I was also part of the chess team and RCL where I was deputy headboy for 3years.
+              When I attended school I founded the first football team named Hope United and captained them until I matriculated. I also participated in athletics, getting my colors thrice for sprinting and long distance. I was also part of the chess team and RCL where I was deputy headboy for 3years
               <br>
                 I have been working since the age of 16. Once I passed matric I got my first 9-5 job and have worked for various different companies, you may find out more about that on my resume page. Technology has always been an interest of mine growing up. So once I heard about lifechoices and the opportunities they offered, I jumped at it. You may check out my projects in the project page
             </p>
@@ -21,13 +21,13 @@
           <p>Email Address : Swiftyblue11@gmail.com</p>
           <p>Language : English</p>
           <div id="iconsabout">
-            <i class="bi fa-2x bi-filetype-html mx-1"></i>HTML
-            <i class="bi fa-2x bi-filetype-css mx-1"></i>CSS
-            <i class="bi fa-2x bi-filetype-sql mx-1"></i>MYSQL
+            <i class="bi fa-2x bi-filetype-html mx-1">HTML</i>
+            <i class="bi fa-2x bi-filetype-css mx-1">CSS</i>
+            <i class="bi fa-2x bi-filetype-sql mx-1">MYSQL</i>
             <br>
-            <i class="bi fa-2x bi-bootstrap mx-1"></i>BOOTSTRAP
-            <i class="bi fa-2x bi-filetype-java mx-1"></i>JAVASCRIPT
-            <i class="fa-brands fa-2x fa-vuejs mx-1"></i>Vue.js
+            <i class="bi fa-2x bi-bootstrap mx-1">BOOTSTRAP</i>
+            <i class="bi fa-2x bi-filetype-java mx-1">JAVASCRIPT</i>
+            <i class="fa-brands fa-2x fa-vuejs mx-1">Vue.js</i>
           </div>
               <a target="_blank" href="https://github.com/Tempestfury11" class="button button2">GitHub</a>
           </div>
@@ -43,6 +43,12 @@ export default {
 </script>
 
 <style scoped>
+.dis{
+color: #00a5ff;
+}
+#heading{
+font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+}
 
 .about{
   background-color: black;
