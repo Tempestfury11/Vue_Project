@@ -90,7 +90,7 @@
           <div class="details">
             <h2>Monique Dampies</h2>
             <span>Peer</span>
-            <h2>Moniquedampies@gmail.com</h2>
+            <h2>Moniqued1861@gmail.com</h2>
           </div>
         </div>
       </div>
@@ -139,7 +139,7 @@
           <div class="details">
             <h2>Taucia Jackson</h2>
             <span>Peer</span>
-            <h2>Taucia.jackson123@gmail.com</h2>
+            <h2>Tauciajackson@gmail.com</h2>
           </div>
         </div>
       </div>
@@ -160,7 +160,7 @@
           <div class="details">
             <h2>Cassidy Manual</h2>
             <span>Peer</span>
-            <h2>Cassidymanuel.59@gmail.com</h2>
+            <h2>Cassidymanuel@gmail.com</h2>
           </div>
         </div>
       </div>

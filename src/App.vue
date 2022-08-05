@@ -22,6 +22,7 @@ export default {
 <style>
 *{
   font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+  font-size: 21px;
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;

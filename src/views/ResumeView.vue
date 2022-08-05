@@ -2,7 +2,7 @@
     <div class="resume">
       <div class="container">
         <h1 class="text-center">RESUME</h1>
-        <h2 id="heading">My <span>Work</span> & <span>Education</span> Experience</h2>
+        <h2 id="heading">My Work & Education Experience</h2>
         <div class="row">
           <div class="school">
             <div class="cards">

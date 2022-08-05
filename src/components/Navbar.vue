@@ -6,7 +6,7 @@
     ></label>
     <ul class="menu">
       <li class="nav-item">
-        <router-link :to="{ name: 'landing' }"><i class="bi bi-house-door-fill">HOME</i></router-link>
+        <router-link :to="{ name: 'landing' }"><i class="bi bi-house-door-fill"></i>HOME</router-link>
       </li>
       <li class="nav-item">
         <router-link :to="{ name: 'about' }"

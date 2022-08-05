@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <div class="container">
-        <h1 class="text-center">ABOUT <span class="dis">ME</span></h1>
+        <h1 class="text-center">ABOUT ME</h1>
         <br>
         <div class="row">
           <div class="col-md-4">
@@ -9,7 +9,7 @@
               alt="aboutmeimage"/>
           </div>
           <div id="abouttext" class="col-md-8">
-            <h2>My Name Is <span class="dis">Marshalino Jankowski</span></h2>
+            <h2>My Name Is Marshalino Jankowski</h2>
             <p>
               I am 24 years old, born, and bred in Cape Town, South Africa. My interests include music, football, and gaming. My skills include playing the guitar, piano and bass. I am very physically active as football is one of my main passions. When I have free time I enjoy listening to music, playing video games like Call of Duty and watching my favorite football teams in the UCL
               <br>
@@ -43,9 +43,6 @@ export default {
 </script>
 
 <style scoped>
-.dis{
-color: #00a5ff;
-}
 
 .about{
   background-color: black;
