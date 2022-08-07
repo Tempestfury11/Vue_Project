@@ -90,9 +90,9 @@ export default {
         {
           id: 7,
           icon: "https://i.postimg.cc/kg7m0ChH/trojan.png",
-          title: "Mark 3",
-          link1: "https://github.com/Tempestfury11/MarkIII",
-          link2: "https://polite-cannoli-e9c0b7.netlify.app/",
+          title: "Mark 2",
+          link1: "https://github.com/Tempestfury11/mark-2",
+          link2: "https://dancing-treacle-408259.netlify.app/",
         },
         {
           id: 8,
