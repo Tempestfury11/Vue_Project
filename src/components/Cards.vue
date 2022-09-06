@@ -83,9 +83,9 @@ export default {
         {
           id: 6,
           icon: "https://i.postimg.cc/bJhHT6v1/MS.png",
-          title: "First Group Project",
-          link1: "https://github.com/Emivw/college1",
-          link2: "https://groupassignment.netlify.app/index.html",
+          title: "Kit Army",
+          link1: "https://github.com/Reagan701/FullstackProject",
+          link2: "https://kitarmy.netlify.app/",
         },
         {
           id: 7,
