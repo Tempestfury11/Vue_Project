@@ -1,10 +1,14 @@
 <template>
     <div id="landing">
         <div class="container justify-content-center align-items-center flex-column h-100" id="landing-data">
-            <h2>My Name Is...</h2>
-            <h1>MARSHALINO JANKOWSKI</h1>
-            <h2>And</h2>
-            <h1>WELCOME TO MY PORTFOLIO</h1>
+            <div class="row">
+                <div class="col">
+                    <h2>My Name Is...</h2>
+                    <h1>MARSHALINO JANKOWSKI</h1>
+                    <h2>And</h2>
+                    <h1>WELCOME TO MY PORTFOLIO</h1>
+                </div>
+            </div>
         </div>
     </div>
 </template>
@@ -25,6 +29,6 @@ export default {
   color: white;
 }
 #landing-data{
-    padding:200px 0 0 400px;
+    padding:200px 0;
 }
 </style>
