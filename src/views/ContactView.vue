@@ -23,6 +23,9 @@ export default {
 </script>
 
 <style scoped>
+.contact{
+  padding-top: 150px;
+}
   * {
     padding: 0;
     margin: 0;

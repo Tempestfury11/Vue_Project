@@ -82,17 +82,17 @@ export default {
         },
         {
           id: 6,
-          icon: "https://i.postimg.cc/bJhHT6v1/MS.png",
+          icon: "https://i.postimg.cc/dtypVtx1/kitarmy.png",
           title: "Kit Army",
           link1: "https://github.com/Reagan701/FullstackProject",
           link2: "https://kitarmy.netlify.app/",
         },
         {
           id: 7,
-          icon: "https://i.postimg.cc/kg7m0ChH/trojan.png",
-          title: "Mark 2",
-          link1: "https://github.com/Tempestfury11/mark-2",
-          link2: "https://dancing-treacle-408259.netlify.app/",
+          icon: "https://i.postimg.cc/RhpmxMXm/tempestgaming.png",
+          title: "Tempest Gaming",
+          link1: "https://github.com/Tempestfury11/CapstoneFrontEnd",
+          link2: "https://tempestgaming-2b191.web.app/",
         },
         {
           id: 8,
