@@ -45,7 +45,7 @@
 export default {};
 </script>
 
-<style>
+<style scoped>
 a {
   color: white;
 }
@@ -71,14 +71,13 @@ a {
 .header li a {
   display: block;
   padding: 20px 20px;
-  /* border-right: 1px solid white; */
   text-decoration: none;
 }
 
 .header li a:hover,
 .header .menu-btn:hover {
-  background-color: #00a5ff;
-  color: white;
+  text-decoration: underline;
+  color: #00a5ff;
 }
 
 .header .logo {

@@ -29,7 +29,7 @@
 <!-- Footer -->
 </template>
 
-<style>
+<style scoped>
 #foot{
   color: white;
   background-color: black;
