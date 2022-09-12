@@ -10,7 +10,7 @@
         <input type="text" placeholder="Email address (required)" required>
         <input type="text" placeholder="Topic (required)" required>
         <textarea placeholder="Subject (required)" required></textarea>
-        <input type="submit" value="SEND">
+        <input type="submit" value="SEND" target="_blank">
       </form>
     </div>
   </body>
