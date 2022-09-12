@@ -116,7 +116,9 @@ export default {
 
 <style scoped>
 #project-img {
-  object-fit: cover;
+  /* object-fit: cover; */
+  border-radius: 30px;
+  border: none;
 }
 .card-content {
   margin: 50px auto 50px;
