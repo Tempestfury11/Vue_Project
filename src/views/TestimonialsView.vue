@@ -1,7 +1,13 @@
 <template>
   <div class="testimonials">
     <h1 class="text-white">MY TESTIMONIALS</h1>
-    <h2 id="heading">What People Say About Me</h2>
+    <div v-if="test">
+      <ul>
+        <li v-for="info in test" :key="info">
+          <h1>{{info.name}}</h1>
+        </li>
+      </ul>
+    </div>
     <div class="testimonial container">
       <div class="card">
         <div class="layer"></div>
@@ -190,10 +196,19 @@
 </template>
 
 <script>
-export default {};
+export default {
+  computed: {
+    test(){
+    return this.$store.state.test
+  }
+  }
+};
 </script>
 
 <style scoped>
+  h1{
+    color: pink;
+  }
 .testimonials {
   color: black;
   background-color: black;

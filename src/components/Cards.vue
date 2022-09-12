@@ -116,7 +116,6 @@ export default {
 
 <style scoped>
 #project-img {
-  /* object-fit: cover; */
   border-radius: 30px;
   border: none;
 }
