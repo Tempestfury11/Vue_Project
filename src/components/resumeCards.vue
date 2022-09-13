@@ -81,7 +81,7 @@ export default {
 <style scoped>
 .card {
   width: 500px;
-  height: 530px;
+  height: fit-content;
   background: black;
   border-radius: 0.4em;
   box-shadow: 0.3em 0.3em 0.7em #00000015;

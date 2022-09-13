@@ -18,7 +18,7 @@
                 I have been working since the age of 16. Once I passed matric I got my first 9-5 job and have worked for various different companies, you may find out more about that on my resume page. Technology has always been an interest of mine growing up. So once I heard about lifechoices and the opportunities they offered, I jumped at it. You may check out my projects in the project page
             </p>
           <p>Contact Number : 0618445578</p>
-          <p>Email Address : Swiftyblue11@gmail.com</p>
+          <p>Email Address : MarshalinoJankowski98@gmail.com</p>
           <p>Language : English</p>
           <div id="iconsabout">
             <i class="bi fa-2x bi-filetype-html mx-1"></i><span>HTML</span>
