@@ -32,9 +32,6 @@ export default {
 </script>
 
 <style scoped>
-  h1{
-    color: pink;
-  }
 .testimonials {
   color: black;
   background-color: black;
@@ -87,9 +84,8 @@ export default {
   width: 200px;
   height: 200px;
   margin: 0 auto;
-  border-radius: 50%;
+  border-radius: 30%;
   overflow: hidden;
-  border: 5px solid navy;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 .testimonial .card .content .details h2 {

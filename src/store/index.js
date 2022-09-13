@@ -4,13 +4,6 @@ export default createStore({
   state: {
     test: [
       {
-        name: "Ashwin Dean",
-        email: "Ashwin.dean21@gmail.com",
-        type: "Peer",
-        text: "I would like to formally recommend Marshalino Jankowski for his consistent work. He has the ability to complete tasks timelessly and effectively. His planning before taking action is always consistent and sharing ideas, steps for planning a website. I know that Marshalino Jankowski has the ability and skills to be an excellent addition to the company",
-        img: "https://i.postimg.cc/63vJSqXJ/Ashwin.jpg",
-      },
-      {
         name: "Emile Van Wyk",
         email: "Emiya.vanwyk@gmail.com",
         type: "Peer",
@@ -49,7 +42,7 @@ export default createStore({
         name: "Cassidy Manual",
         email: "Cassidymanuel@gmail.com",
         type: "Peer",
-        text: "I think that Marshalino Jankowski is one of the most hardworking people i know, he is one of those people that was blessed with a never give up attitude. He is a great asset to the team as he has an infectious smile and he always makes the people around him laugh with making light out of stressful situations. When work needs to be done you can find him online at early hours pushing his code",
+        text: "I think that Marshalino Jankowski is one of the most hardworking people i know, he is one of those people that was blessed with a never give up attitude. He is a great asset to the team as he has an infectious smile and he always makes the people around him laugh with making light out of stressful situations.",
         img: "https://i.postimg.cc/yx2507Wz/Cassidy-1.jpg",
       },
       {
@@ -58,6 +51,13 @@ export default createStore({
         type: "Lecturer",
         text: "Marshalino is a person with value, stature and very good manners. He presents a true gentleman position and shows a lot of integrity. He is a hardworker, tries his very best in every task given to him and is able to complete it before the actual date or time due. May Marshalino Jankowski be given a chance to this experience because I assure you he will be eager to learn.",
         img: "https://i.postimg.cc/NfbM1Mcc/15.jpg",
+      },
+      {
+        name: "Ashwin Dean",
+        email: "Ashwin.dean21@gmail.com",
+        type: "Peer",
+        text: "I would like to formally recommend Marshalino Jankowski for his consistent work. He has the ability to complete tasks timelessly and effectively. His planning before taking action is always consistent and sharing ideas, steps for planning a website. I know that Marshalino Jankowski has the ability and skills to be an excellent addition to the company",
+        img: "https://i.postimg.cc/63vJSqXJ/Ashwin.jpg",
       },
     ],
   },
