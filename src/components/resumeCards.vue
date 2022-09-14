@@ -34,22 +34,6 @@ export default {
         },
         {
           id: 2,
-          title: "TAKEALOT",
-          duties: "Managing customer queries and accounts providing customer service through voice and emails",
-          duration: "June 2020 to August 2020",
-          location: "Work From Home",
-          referances: "Kirsten Klein (062 390 8944)",
-        },
-        {
-          id: 3,
-          title: "WOOLWORTHS",
-          duties: "Manage stock control, providing customer service and facilitate transactions through sales",
-          duration: "November 2018 to January 2019",
-          location: "Kroombrom, Athlone",
-          referances: "Sharon Matthysen (068 257 8605)",
-        },
-        {
-          id: 4,
           title: "CAPITA",
           duties: "Managing customer related queries and accounts providing customer service through voice and emails",
           duration: "January 2021 to May 2021",
@@ -57,12 +41,28 @@ export default {
           referances: "Savanna Ensil (063 155 3915)",
         },
         {
-          id: 5,
+          id: 3,
+          title: "TAKEALOT",
+          duties: "Managing customer queries and accounts providing customer service through voice and emails",
+          duration: "June 2020 to August 2020",
+          location: "Work From Home",
+          referances: "Kirsten Klein (062 390 8944)",
+        },
+        {
+          id: 4,
           title: "MERCHANTS",
           duties: "Manage Inbound and outbound calls, providing customer service through emails, LiveChat and Social Media",
           duration: "January 2019 to June 2020",
           location: "The District Building, Woodstock",
           referances: "Ralton Pillay(084 066 7197)",
+        },
+        {
+          id: 5,
+          title: "WOOLWORTHS",
+          duties: "Manage stock control, providing customer service and facilitate transactions through sales",
+          duration: "November 2018 to January 2019",
+          location: "Kroombrom, Athlone",
+          referances: "Sharon Matthysen (068 257 8605)",
         },
         {
           id: 6,
@@ -81,7 +81,7 @@ export default {
 <style scoped>
 .card {
   width: 500px;
-  height: 530px;
+  height: fit-content;
   background: black;
   border-radius: 0.4em;
   box-shadow: 0.3em 0.3em 0.7em #00000015;
