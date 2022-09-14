@@ -6,12 +6,10 @@
         <div class="row">
           <div class="col-12">
             <div class="school">
-            <div>
               <h5 id="heading">Alexander Sinton High School</h5>
-              <i>I started my highschool career off at Alexander Sinton High, based in Crawford. I was only there for a year however I learned how to play guitar in my time there</i>
+              <p>I started my highschool career off at Alexander Sinton High, based in Crawford. I was only there for a year however I learned how to play guitar in my time there</p>
               <h5 id="heading">School of Hope</h5>
-              <i>For the rest of my highschool career, I attended School of Hope, based in Observatory. I was a part of the RCL for 4years and Deputy Headboy for 3years. I started the first football team and captained them until I matriculated</i>
-            </div>
+              <p>For the rest of my highschool career, I attended School of Hope, based in Observatory. I was a part of the RCL for 4years and Deputy Headboy for 3years. I started the first football team and captained them until I matriculated</p>
           </div>
           </div>
           <div id="jobs">
@@ -42,7 +40,7 @@ export default {
   color: white;
   margin: 20px 20px 20px 20px;
   padding: 20px 0 20px 0;
-  border: 2px solid #00a5ff;
+  border: 0.2em solid #00a5ff;
   border-radius: 20px
 }
 #heading{
