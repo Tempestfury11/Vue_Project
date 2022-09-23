@@ -31,16 +31,36 @@
           <p><i class="fa-solid fa-house"></i>Athlone</p>
           <a target="_blank" href="https://github.com/Tempestfury11" class="button button2">GitHub</a>
         </div>
-        <div class="row">
-          <div class="col pt-4">
-            <div id="iconsabout">
-              <h2 id="heading">My Techical Skills</h2>
-              <i class="bi fa-2x bi-filetype-html mx-1"></i><span>HTML</span>
-              <i class="bi fa-2x bi-filetype-css mx-1"></i><span>CSS</span>
-              <i class="bi fa-2x bi-filetype-sql mx-1"></i><span>MYSQL</span>
-              <i class="bi fa-2x bi-filetype-java mx-1"></i><span>JAVASCRIPT</span>
-              <i class="fa-brands fa-2x fa-vuejs mx-1"></i><span>Vue.js</span>
-              <br>
+        <div class="container">
+          <div class="row">
+            <div class="col pt-4">
+              <div id="iconsabout">
+                <h2 id="heading">My Techical Skills</h2>
+                <i class="bi fa-2x bi-filetype-html mx-1"></i><span>HTML</span>
+                <br>
+                <i class="bi fa-2x bi-filetype-css mx-1"></i><span>CSS</span>
+                <br>
+                <i class="fa-brands fa-2x fa-bootstrap mx-1"></i><span>BOOTSTRAP</span>
+                <br>
+                <i class="bi fa-2x bi-filetype-sql mx-1"></i><span>MYSQL</span>
+                <br>
+                <i class="bi fa-2x bi-filetype-java mx-1"></i><span>JAVASCRIPT</span>
+                <br>
+                <i class="fa-brands fa-2x fa-vuejs mx-1"></i><span>VUE.JS</span>
+                <br>
+                <i class="fa-brands fa-2x fa-node-js mx-1"></i><span>NODE.JS</span>
+                <h2 id="heading">My Soft Skills</h2>
+                <i class="fa-solid fa-2x fa-ear-listen mx-1"></i><span>Active Listening</span>
+                <br>
+                <i class="fa-solid fa-2x fa-magnifying-glass mx-1"></i><span>Problem Solving</span>
+                <br>
+                <i class="fa-solid fa-2x fa-bandage mx-1"></i><span>Conflict Management</span>
+                <br>
+                <i class="fa-solid fa-2x fa-medal mx-1"></i><span>Self-Management</span>
+                <br>
+                <i class="fa-solid fa-2x fa-up-right-and-down-left-from-center mx-1"></i><span>Managing Change</span>
+                <br>
+              </div>
             </div>
           </div>
         </div>
