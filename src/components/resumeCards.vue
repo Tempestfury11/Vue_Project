@@ -12,6 +12,7 @@
           <p>{{ item.duration }}</p>
           <p>{{ item.location }}</p>
           <p>{{ item.referances }}</p>
+          <p>{{item.rol}}</p>
         </div>
         <br />
       </div>
@@ -31,6 +32,7 @@ export default {
           duration: "June 2021 to April 2022",
           location: "Bellville",
           referances: "Keenan Stuurman (071 857 0531)",
+          rol: "Studies"
         },
         {
           id: 2,
@@ -39,6 +41,7 @@ export default {
           duration: "January 2021 to May 2021",
           location: "Cape Town",
           referances: "Savanna Ensil (063 155 3915)",
+          rol: "Heath Reasons"
         },
         {
           id: 3,
@@ -47,6 +50,7 @@ export default {
           duration: "June 2020 to August 2020",
           location: "Work From Home",
           referances: "Kirsten Klein (062 390 8944)",
+          rol: "Contract ended"
         },
         {
           id: 4,
@@ -55,6 +59,7 @@ export default {
           duration: "January 2019 to June 2020",
           location: "The District Building, Woodstock",
           referances: "Ralton Pillay(084 066 7197)",
+          rol: "Covid"
         },
         {
           id: 5,
@@ -63,6 +68,7 @@ export default {
           duration: "November 2018 to January 2019",
           location: "Kroombrom, Athlone",
           referances: "Sharon Matthysen (068 257 8605)",
+          rol: "Contract Ended"
         },
         {
           id: 6,
@@ -71,6 +77,7 @@ export default {
           duration: "June 2017 to January 2018",
           location: "Milner Road, Rhondebosch",
           referances: "Nuraan Samsodien (065 943 5988)",
+          rol: "Studies"
         },
       ],
     };

@@ -1,37 +1,50 @@
 <template>
   <div class="about">
     <div class="container">
-        <h1 class="text-center">ABOUT ME</h1>
-        <br>
-        <div class="row">
-          <div class="col-md-4 pt-4">
-            <img class="img-fluid" src="https://i.postimg.cc/sx9FKkBV/Marshalino-2.jpg"
-              alt="aboutmeimage"/>
-          </div>
-          <div id="abouttext" class="col-md-8">
-            <h2 id="heading">My Name Is Marshalino Jankowski</h2>
-            <p>
-              I am 24 years old, born, and bred in Cape Town, South Africa. My interests include music, football, and gaming. My skills include playing the guitar, piano and bass. I am very physically active as football is one of my main passions. When I have free time I enjoy listening to music, playing video games like Call of Duty and watching my favorite football teams in the UCL
-              <br>
-              When I attended school I founded the first football team named Hope United and captained them until I matriculated. I also participated in athletics, getting my colors thrice for sprinting and long distance. I was also part of the chess team and RCL where I was deputy headboy for 3years
-              <br>
-                I have been working since the age of 16. Once I passed matric I got my first 9-5 job and have worked for various different companies, you may find out more about that on my resume page. Technology has always been an interest of mine growing up. So once I heard about lifechoices and the opportunities they offered, I jumped at it. You may check out my projects in the project page
-            </p>
-          <p>Contact Number : 0618445578</p>
-          <p>Email Address : MarshalinoJankowski98@gmail.com</p>
-          <p>Language : English</p>
-          <div id="iconsabout">
-            <i class="bi fa-2x bi-filetype-html mx-1"></i><span>HTML</span>
-            <i class="bi fa-2x bi-filetype-css mx-1"></i><span>CSS</span>
-            <i class="bi fa-2x bi-filetype-sql mx-1"></i><span>MYSQL</span>
+      <h1 class="text-center">ABOUT ME</h1>
+      <br>
+      <div class="row">
+        <div class="col-md-4 pt-4">
+          <img class="img-fluid" src="https://i.postimg.cc/sx9FKkBV/Marshalino-2.jpg" alt="aboutmeimage" />
+        </div>
+        <div id="abouttext" class="col-md-8">
+          <h2 id="heading">My Name Is Marshalino Jankowski</h2>
+          <p>
+            I am 24 years old, born, and bred in Cape Town, South Africa. My interests include music, football and
+            gaming. My skills include playing the guitar and piano. I am physically active as football is one
+            of my main passions. When I have free time I enjoy playing video games like Call of Duty
+            and watching my favorite football teams in the UCL
             <br>
-            <i class="bi fa-2x bi-bootstrap mx-1"></i><span>BOOTSTRAP</span>
-            <i class="bi fa-2x bi-filetype-java mx-1"></i><span>JAVASCRIPT</span>
-            <i class="fa-brands fa-2x fa-vuejs mx-1"></i><span>Vue.js</span>
-          </div>
-              <a target="_blank" href="https://github.com/Tempestfury11" class="button button2">GitHub</a>
+            When I attended school I founded the first football team named Hope United and captained them until I
+            matriculated. I also participated in athletics, getting my colors for sprinting and long distance. I
+            was also part of the chess team and RCL where I was deputy headboy for 3years
+            <br>
+            I have been working since the age of 16. Once I passed matric I got my first 9-5 job and have worked for
+            various different companies, you may find out more about that on my resume page. Technology has always been
+            an interest of mine growing up. So once I heard about lifechoices and the opportunities they offered, I
+            jumped at it. You may check out my projects in the project page
+          </p>
+          <p><i class="fa-solid fa-mobile-screen"></i>0618445578</p>
+          <p><i class="fa-regular fa-envelope"></i>Swiftyblue11@gmail.com</p>
+          <p><i class="fa-solid fa-headset"></i>English</p>
+          <p><i class="fa-regular fa-calendar-days"></i>11/01/1998</p>
+          <p><i class="fa-solid fa-house"></i>Athlone</p>
+          <a target="_blank" href="https://github.com/Tempestfury11" class="button button2">GitHub</a>
+        </div>
+        <div class="row">
+          <div class="col pt-4">
+            <div id="iconsabout">
+              <h2 id="heading">My Techical Skills</h2>
+              <i class="bi fa-2x bi-filetype-html mx-1"></i><span>HTML</span>
+              <i class="bi fa-2x bi-filetype-css mx-1"></i><span>CSS</span>
+              <i class="bi fa-2x bi-filetype-sql mx-1"></i><span>MYSQL</span>
+              <i class="bi fa-2x bi-filetype-java mx-1"></i><span>JAVASCRIPT</span>
+              <i class="fa-brands fa-2x fa-vuejs mx-1"></i><span>Vue.js</span>
+              <br>
+            </div>
           </div>
         </div>
+      </div>
     </div>
   </div>
 </template>
@@ -43,18 +56,20 @@ export default {
 </script>
 
 <style scoped>
-.about{
+.about {
   background-color: black;
   padding: 50px 0 50px 0;
 }
-.about img{
+
+.about img {
   width: 500px;
   height: 750px;
   object-fit: cover;
   border: 5px solid white;
-  border-radius:20px;
+  border-radius: 20px;
 }
-#abouttext{
+
+#abouttext {
   padding: 30px 0 0 0;
 }
 
@@ -72,20 +87,20 @@ export default {
   font-size: 16px;
   transition-duration: 0.4s;
   cursor: pointer;
-  border-radius: 5px ;
+  border-radius: 5px;
 }
 
 .button2 {
-  background-color: #00a5ff; 
-  color: white; 
+  background-color: #00a5ff;
+  color: white;
 }
 
 .button2:hover {
   background-color: white;
   color: black;
 }
-#heading{
+
+#heading {
   color: #00a5ff
 }
-
 </style>
