@@ -12,7 +12,7 @@
           <p>{{ item.duration }}</p>
           <p>{{ item.location }}</p>
           <p>{{ item.referances }}</p>
-          <p>{{item.rol}}</p>
+          <p>REASON FOR LEAVING : {{item.rol}}</p>
         </div>
         <br />
       </div>
