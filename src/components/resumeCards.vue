@@ -8,11 +8,12 @@
       >
         <div class="card">
           <p>{{ item.title }}</p>
+          <p>{{ item.role}}</p>
           <p>{{ item.duties }}</p>
           <p>{{ item.duration }}</p>
           <p>{{ item.location }}</p>
           <p>{{ item.referances }}</p>
-          <p>REASON FOR LEAVING : {{item.rol}}</p>
+          <p>Reason for Leaving : {{item.rfl}}</p>
         </div>
         <br />
       </div>
@@ -28,56 +29,62 @@ export default {
         {
           id: 1,
           title: "BES UTILITIES",
+          role: "Customer Service Representative",
           duties: "Managing customer queries and accounts providing customer service through voice and emails",
           duration: "June 2021 to April 2022",
           location: "Bellville",
           referances: "Keenan Stuurman (071 857 0531)",
-          rol: "Studies"
+          rfl: "Studies"
         },
         {
           id: 2,
           title: "CAPITA",
+          role: "Customer Service Representative",
           duties: "Managing customer related queries and accounts providing customer service through voice and emails",
           duration: "January 2021 to May 2021",
           location: "Cape Town",
           referances: "Savanna Ensil (063 155 3915)",
-          rol: "Heath Reasons"
+          rfl: "Heath Reasons"
         },
         {
           id: 3,
           title: "TAKEALOT",
+          role: "Customer Service Representative",
           duties: "Managing customer queries and accounts providing customer service through voice and emails",
           duration: "June 2020 to August 2020",
           location: "Work From Home",
           referances: "Kirsten Klein (062 390 8944)",
-          rol: "Contract ended"
+          rfl: "Contract ended"
         },
         {
           id: 4,
           title: "MERCHANTS",
+          role: "Customer Service Representative",
           duties: "Manage Inbound and outbound calls, providing customer service through emails, LiveChat and Social Media",
           duration: "January 2019 to June 2020",
           location: "The District Building, Woodstock",
           referances: "Ralton Pillay(084 066 7197)",
-          rol: "Covid"
+          rfl: "Covid"
         },
         {
           id: 5,
           title: "WOOLWORTHS",
+          role: "Store Assistant",
           duties: "Manage stock control, providing customer service and facilitate transactions through sales",
           duration: "November 2018 to January 2019",
           location: "Kroombrom, Athlone",
           referances: "Sharon Matthysen (068 257 8605)",
-          rol: "Contract Ended"
+          rfl: "Contract Ended"
         },
         {
           id: 6,
           title: "WOOLWORTHS",
+          role: "Store Assistant",
           duties: "Manage stock control, providing customer service and facilitate transactions through sales",
           duration: "June 2017 to January 2018",
           location: "Milner Road, Rhondebosch",
           referances: "Nuraan Samsodien (065 943 5988)",
-          rol: "Studies"
+          rfl: "Studies"
         },
       ],
     };

@@ -115,11 +115,6 @@ export default {
   color: white;
 }
 
-.button2:hover {
-  background-color: white;
-  color: black;
-}
-
 #heading {
   color: #00a5ff
 }
